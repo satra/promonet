@@ -32,7 +32,7 @@ setup(
         'torchaudio',
         'torchutil',
         'umap-learn',
-        'vocos[train]',
+        'vocos',
         'yapecs',
     ],
     packages=find_packages(),
